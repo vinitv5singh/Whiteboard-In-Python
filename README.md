@@ -55,7 +55,7 @@ TextBlob for NLP functionalities
 
 Python community for open-source support
 
-👨‍💻 Author
+👨‍💻 Author: 
 Vinit Singh
 
 
