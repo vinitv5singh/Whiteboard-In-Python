@@ -38,19 +38,16 @@ An interactive whiteboard application built with Python's `Tkinter` GUI toolkit 
 
 ---
 
-✅ Future Enhancements
+✅ Future Enhancements: 
 🧠 Add AI spelling correction
-
 🧠 Add keyword extraction for tags
-
 🖼️ Export canvas as an image
-
 🎤 Voice-to-text note input
 
-📃 License
+📃 License: 
 This project is licensed under the MIT License.
 
-🤝 Acknowledgements
+🤝 Acknowledgements: 
 TextBlob for NLP functionalities
 
 Python community for open-source support
